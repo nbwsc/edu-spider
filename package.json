@@ -1,0 +1,21 @@
+{
+  "name": "edu-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nbwsc/edu-spider.git"
+  },
+  "author": "nbwsc",
+  "license": "ISC"
+}
